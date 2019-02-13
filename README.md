@@ -18,7 +18,7 @@ It detects the 68 important key points of the faces present in the webcam view u
 ## Getting started 
 Clone the repository and run the face_landmark_live.
 
-We are using the model already trained, we will need to download the file shape_predictor_68_face_landmarks.dat that you can find in the repository.
+We are using the model already trained, we will need to download the file shape_predictor_68_face_landmarks.dat that you can find [here](https://drive.google.com/open?id=1boP10q7O45720_3jPB2ikwGTzcR7Y9WB).
 
 ## Usage 
 ```
