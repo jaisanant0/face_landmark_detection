@@ -24,6 +24,7 @@ We are using the model already trained, we will need to download the file shape_
 ```
 python3 face_landmark_live.py 
 ```
+Press 'q' to quit.
 
 NOTE : It save the output in the current directory as output_video.avi
 
